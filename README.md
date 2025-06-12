@@ -1,10 +1,9 @@
 # 🧮 Calculadora en Python
 
-Este es un trabajo práctico realizado por dos integrantes para la **Universidad Peruana de Ciencias Aplicadas (UPC)**.  
+Este es un trabajo práctico realizado por dos integrantes: Mateo Lopez, Ivo Giuliano Cappetto. 
 Consiste en una calculadora simple desarrollada en Python que permite realizar operaciones básicas: **suma**, **resta**, **producto** e **impresión de resultados**.
 
 🔗 **Link de referencia (ChatGPT)**:  
-https://chatgpt.com/share/6849f7f6-7ad4-800b-a8d9-9359381c4500
 
 ---
 
