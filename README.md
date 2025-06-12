@@ -1,6 +1,6 @@
 # 🧮 Calculadora en Python
 
-Este es un trabajo práctico realizado por dos integrantes: Mateo Lopez, Ivo Giuliano Cappetto. 
+Este es un trabajo práctico realizado por dos integrantes.
 Consiste en una calculadora simple desarrollada en Python que permite realizar operaciones básicas: **suma**, **resta**, **producto** e **impresión de resultados**.
 
 🔗 **Link de referencia (ChatGPT)**:  
@@ -9,8 +9,8 @@ Consiste en una calculadora simple desarrollada en Python que permite realizar o
 
 ## 👥 Integrantes
 
-- Persona 1: [Nombre del integrante 1]  
-- Persona 2: [Nombre del integrante 2]
+- Persona 1: Ivo Giuliano Cappetto.
+- Persona 2: Mateo Lopez.
 
 ---
 
